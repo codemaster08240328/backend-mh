@@ -58,6 +58,12 @@ The services will try to use ports 8081, 8082 and 8083
 
 Use Postman or any API tool of you choice to trigger your endpoints (this is how we will test your new route). Please add your new routes to the readme
 
+### How to run test
+
+```bash
+npm run test
+```
+
 ### Existing routes
 
 We have provided a series of routes
